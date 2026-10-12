@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Indonesian Angklung",
+  "description": "An interactive Indonesian traditional angklung instrument with realistic bamboo physics, shake interactions, and resonant acoustics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
